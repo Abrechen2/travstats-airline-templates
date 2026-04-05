@@ -1,41 +1,14 @@
 {
-  "version": "2025-04",
+  "version": "2025-04b",
   "airlines": [
-    {
-      "iata": "EW",
-      "version": "2024-03"
-    },
-    {
-      "iata": "FR",
-      "version": "2024-03"
-    },
-    {
-      "iata": "LH",
-      "version": "2025-04"
-    },
-    {
-      "iata": "LH-old",
-      "version": "2025-04"
-    },
-    {
-      "iata": "LX",
-      "version": "2024-03"
-    },
-    {
-      "iata": "OS",
-      "version": "2024-03"
-    },
-    {
-      "iata": "SN",
-      "version": "2024-03"
-    },
-    {
-      "iata": "U2",
-      "version": "2024-03"
-    },
-    {
-      "iata": "W6",
-      "version": "2024-03"
-    }
+    { "iata": "EW", "version": "2024-03" },
+    { "iata": "FR", "version": "2024-03" },
+    { "iata": "LH", "version": "2025-04" },
+    { "iata": "LH-old", "version": "2025-04b" },
+    { "iata": "LX", "version": "2024-03" },
+    { "iata": "OS", "version": "2024-03" },
+    { "iata": "SN", "version": "2024-03" },
+    { "iata": "U2", "version": "2024-03" },
+    { "iata": "W6", "version": "2024-03" }
   ]
 }
